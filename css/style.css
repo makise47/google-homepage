@@ -109,16 +109,30 @@ a:hover {
 
 .button1 {
     font-family: 'Roboto', sans-serif;
-    color: #5F6368;
+    color: #535353;
     border: none;
+    border-radius: 3px;
     font-size: 1em;
+    padding: 7px 15px 7px 15px;
+    margin-right: 10px;
 }
 
 .button2 {
     font-family: 'Roboto', sans-serif;
-    color: #5F6368;
+    color: #535353;
     border: none;
+    border-radius: 3px;
     font-size: 1em;
+    padding: 7px 15px 7px 15px;
+    margin-left: 10px;
+}
+
+.button1:hover {
+    box-shadow: 0 0 0 1px #757575;
+}
+
+.button2:hover {
+    box-shadow: 0 0 0 1px #757575;
 }
 
 .footer {
