@@ -1,2 +1,2 @@
-This is my first Odin Project assignment. 
--- Makise / Surya Panicker.
+I will be attempting to recreate the Google homepage. 
+- Makise / Surya Panicker.
