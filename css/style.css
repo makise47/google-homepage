@@ -142,10 +142,10 @@ a:hover {
     bottom: 0;
     width: 100%;
     background-color: #F2F2F2;
-    grid-template-columns: 100px 100px 100px 150px 1fr 80px 80px 80px;
+    grid-template-columns: 100px 100px 100px 150px 1fr 80px 80px 80px 10px;
     grid-template-rows: 60px;
     grid-template-areas:
-    "about ads business how . privacy terms settings";
+    "about ads business how . privacy terms settings .";
 }
 
 .about {
