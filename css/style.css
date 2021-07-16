@@ -94,7 +94,7 @@ a:hover {
     align-self: center;
     border: 2px solid #F2F2F2;
     border-radius: 30px;
-    background: url(https://github.com/makise47/google-homepage/blob/main/images/search-icon.png) no-repeat scroll 15px 7px;
+    background: url("https://github.com/makise47/google-homepage/blob/main/images/search-icon.png") no-repeat scroll 15px 7px;
     padding-left: 50px;
 }
 
