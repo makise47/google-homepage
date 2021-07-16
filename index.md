@@ -6,7 +6,7 @@
         <link rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Roboto">
         <link href="css/style.css" rel="stylesheet">
-        <link rel="favicon" type="favicon.ico" href="favicon.ico?" />
+        <link rel="favicon" type="/favicon.ico" href="favicon.ico?" />
     </head>
 
     <body>
